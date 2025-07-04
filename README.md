@@ -32,7 +32,7 @@ The system categorizes emails based on actions needed:
 ### 1. Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/finnlaymfarmor/email-categoriser
 cd email-categoriser
 npm install
 ```
