@@ -1,0 +1,15 @@
+{
+  "emailProvider": "gmail",
+  "maxResults": 50,
+  "monitoring": {
+    "enabled": false,
+    "pollInterval": 5,
+    "maxEmailsPerCheck": 10,
+    "logActivity": true
+  },
+  "webhooks": {
+    "enabled": false,
+    "port": 3000,
+    "secret": "your-webhook-secret-here"
+  }
+}
